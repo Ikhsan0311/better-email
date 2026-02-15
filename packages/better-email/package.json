@@ -36,7 +36,9 @@
     "build": "unbuild",
     "dev": "unbuild --watch",
     "test": "vitest",
-    "typecheck": "tsc --project tsconfig.json --noEmit"
+    "typecheck": "tsc --project tsconfig.json --noEmit",
+    "prepack": "cp ../../README.md . && cp ../../LICENSE .",
+    "postpack": "rm -f README.md LICENSE"
   },
   "exports": {
     ".": {
