@@ -15,6 +15,10 @@ Requires `NPM_TOKEN` secret in repository settings.
 ```bash
 cd packages/better-email
 npm version patch
+cd -
+git add packages/better-email/package.json
+git commit -m "chore: bump version to X.X.X"
+git tag vX.X.X
 git push origin main --tags
 ```
 
