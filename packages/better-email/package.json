@@ -1,5 +1,5 @@
 {
-  "name": "better-email",
+  "name": "@nuntly/better-email",
   "version": "1.0.0",
   "type": "module",
   "main": "./dist/index.cjs",

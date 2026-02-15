@@ -29,13 +29,13 @@ This separation means you can mix and match freely: use Postmark for delivery wi
 ### 1. Install
 
 ```bash
-npm install better-email
+npm install @nuntly/better-email
 # or
-pnpm add better-email
+pnpm add @nuntly/better-email
 # or
-yarn add better-email
+yarn add @nuntly/better-email
 # or
-bun add better-email
+bun add @nuntly/better-email
 ```
 
 ### 2. Pick a provider
