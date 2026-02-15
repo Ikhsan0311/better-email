@@ -1,0 +1,22 @@
+# Source files
+src/
+
+# Tests
+*.test.ts
+*.spec.ts
+vitest.config.ts
+coverage/
+
+# Build config
+tsconfig.json
+build.config.ts
+
+# Development
+node_modules/
+.DS_Store
+*.log
+*.tsbuildinfo
+
+# Git
+.git
+.gitignore
